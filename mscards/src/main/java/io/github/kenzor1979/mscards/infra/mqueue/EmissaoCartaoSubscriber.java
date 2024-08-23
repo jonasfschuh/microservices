@@ -21,7 +21,7 @@ public class EmissaoCartaoSubscriber {
     private final CardRepository cardRepository;
     private final ClienteCardRepository clienteCardRepository;
 
-    @RabbitListener(queues = "${mq.queues.emissao-cartoes}")
+    @RabbitListener(queues = "${mq.queues.card-issuance}")
     public void receberSolicitacaoEmissao(@Payload String payload) {
         System.out.println(payload); //eliminar
         try {

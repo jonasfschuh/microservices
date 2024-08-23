@@ -19,7 +19,7 @@ eureka:
 
 mq:
   queues:
-    emissao-cartoes: emissao-cartoes
+    card-issuance: card-issuance
 
 management:
   endpoints:

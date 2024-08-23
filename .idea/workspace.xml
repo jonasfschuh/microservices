@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9437fbe-c1ed-4004-ba03-f871fc0d7ee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/log-file.log.2024-08-22.0.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaserver/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/log-file.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log-file.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscards/src/main/java/io/github/kenzor1979/mscards/infra/mqueue/EmissaoCartaoSubscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscards/src/main/java/io/github/kenzor1979/mscards/infra/mqueue/EmissaoCartaoSubscriber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscards/src/main/resources/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscards/src/main/resources/application-production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscards/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscards/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscards/target/classes/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscards/target/classes/application-production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscards/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscards/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscards/target/classes/io/github/kenzor1979/mscards/infra/mqueue/EmissaoCartaoSubscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/mscards/target/classes/io/github/kenzor1979/mscards/infra/mqueue/EmissaoCartaoSubscriber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msclients/target/classes/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msclients/target/classes/application-production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msclients/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msclients/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloudgateway/target/classes/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloudgateway/target/classes/application-production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscloudgateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscloudgateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscreditassessor/src/main/java/io/github/kenzor1979/mscreditassessor/config/MQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mscreditassessor/src/main/java/io/github/kenzor1979/mscreditassessor/config/MQConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscreditassessor/src/main/resources/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscreditassessor/src/main/resources/application-production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscreditassessor/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscreditassessor/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscreditassessor/target/classes/application-production.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscreditassessor/target/classes/application-production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscreditassessor/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mscreditassessor/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mscreditassessor/target/classes/io/github/kenzor1979/mscreditassessor/config/MQConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/mscreditassessor/target/classes/io/github/kenzor1979/mscreditassessor/config/MQConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

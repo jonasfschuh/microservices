@@ -9,7 +9,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-Esse projeto efetua um controle de cartões de crédito, clientes, avaliação de crédito e processa a solicitação de emissão de cartões através de uma arquitetura completa de microservices.
+This project controls credit cards, customers, credit assessment and processes card issuance requests through a complete microservices architecture.
 
 - Java 17
 - Spring Cloud/Boot 2.7.0 Modules

@@ -1,3 +1,3 @@
 @echo off
-rem Vai dar build em todos os projetos e procurar todas as bibliotecas 
+rem It will build all projects and search for all libraries
 mvn clean install 

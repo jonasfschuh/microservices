@@ -1,0 +1,6 @@
+io\github\kenzor1979\msclients\MsclientsApplication.class
+io\github\kenzor1979\msclients\application\presentation\ClientSaveRequest.class
+io\github\kenzor1979\msclients\application\ClientsResource.class
+io\github\kenzor1979\msclients\infra\repository\ClientRepository.class
+io\github\kenzor1979\msclients\application\ClientService.class
+io\github\kenzor1979\msclients\domain\Client.class

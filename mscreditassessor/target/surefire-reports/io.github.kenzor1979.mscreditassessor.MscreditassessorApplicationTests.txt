@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.kenzor1979.mscreditassessor.MscreditassessorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.638 s - in io.github.kenzor1979.mscreditassessor.MscreditassessorApplicationTests

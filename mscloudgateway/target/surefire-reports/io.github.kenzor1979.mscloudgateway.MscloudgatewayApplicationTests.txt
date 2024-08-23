@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.kenzor1979.mscloudgateway.MscloudgatewayApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.722 s - in io.github.kenzor1979.mscloudgateway.MscloudgatewayApplicationTests

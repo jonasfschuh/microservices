@@ -1,0 +1,13 @@
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\application\CardsResource.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\application\ClienteCardService.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\domain\BandeiraCartao.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\application\representation\CartoesPorClienteResponse.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\domain\Card.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\application\CardService.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\application\representation\CartaoSaveRequest.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\domain\ClienteCard.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\domain\DadosSolicitacaoEmissaoCartao.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\infra\repository\CardRepository.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\infra\repository\ClienteCardRepository.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\MscardsApplication.java
+D:\DEV\Java\_Projetos\microservices\microservices\mscards\src\main\java\io\github\kenzor1979\mscards\infra\mqueue\EmissaoCartaoSubscriber.java

@@ -1,0 +1,13 @@
+io\github\kenzor1979\mscards\domain\DadosSolicitacaoEmissaoCartao.class
+io\github\kenzor1979\mscards\domain\ClienteCard.class
+io\github\kenzor1979\mscards\application\representation\CartoesPorClienteResponse.class
+io\github\kenzor1979\mscards\domain\Card.class
+io\github\kenzor1979\mscards\application\representation\CartaoSaveRequest.class
+io\github\kenzor1979\mscards\infra\mqueue\EmissaoCartaoSubscriber.class
+io\github\kenzor1979\mscards\infra\repository\ClienteCardRepository.class
+io\github\kenzor1979\mscards\application\ClienteCardService.class
+io\github\kenzor1979\mscards\application\CardsResource.class
+io\github\kenzor1979\mscards\MscardsApplication.class
+io\github\kenzor1979\mscards\application\CardService.class
+io\github\kenzor1979\mscards\domain\BandeiraCartao.class
+io\github\kenzor1979\mscards\infra\repository\CardRepository.class

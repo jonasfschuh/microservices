@@ -1,12 +1,11 @@
-Para instalar o RabbitMQ
+To install RabbitMQ
 docker run -it --name ms-rabbitmq-local -p 5672:5672 -p 15672:15672 rabbitmq:3.13-management
 
-Para instalar o KeyCloak
+To install  Keycloak
 docker run --name ms-keycloak-local -p 8081:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:18.0.0 start-dev
 
-Criar apenas uma vez
+Create only once
 docker network create ms-network
 
-** No rabbitMQ adicionar a queue 
-	
+** In rabbitMQ add the queue
 emissao-cartoes

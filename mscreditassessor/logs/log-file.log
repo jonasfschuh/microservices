@@ -1,0 +1,22 @@
+2024-08-22 12:47:43.746  INFO 28616 --- [main] i.g.k.m.MscreditassessorApplicationTests : Starting MscreditassessorApplicationTests using Java 17.0.10 on DESKTOP-8VM9LNU with PID 28616 (started by Ryzen7 in D:\DEV\Java\_Projetos\microservices\microservices\mscreditassessor)
+2024-08-22 12:47:43.749  INFO 28616 --- [main] i.g.k.m.MscreditassessorApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-08-22 12:47:44.868  INFO 28616 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=14a78561-e590-345a-a125-9506cbb6df7d
+2024-08-22 12:47:45.629  INFO 28616 --- [main] o.s.c.openfeign.FeignClientFactoryBean   : For 'msclients' URL not provided. Will try picking an instance via load-balancing.
+2024-08-22 12:47:45.746  INFO 28616 --- [main] o.s.c.openfeign.FeignClientFactoryBean   : For 'mscards' URL not provided. Will try picking an instance via load-balancing.
+2024-08-22 12:47:48.367  INFO 28616 --- [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-22 12:47:48.471  WARN 28616 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-08-22 12:47:48.496  INFO 28616 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2024-08-22 12:47:48.577  INFO 28616 --- [main] i.g.k.m.MscreditassessorApplicationTests : Started MscreditassessorApplicationTests in 5.206 seconds (JVM running for 5.943)
+2024-08-22 12:47:49.058  INFO 28616 --- [SpringApplicationShutdownHook] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-22 12:47:49.060  INFO 28616 --- [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application MSCREDITASSESSOR with eureka with status DOWN
+2024-08-22 12:54:13.049  INFO 25996 --- [main] i.g.k.m.MscreditassessorApplicationTests : Starting MscreditassessorApplicationTests using Java 17.0.10 on DESKTOP-8VM9LNU with PID 25996 (started by Ryzen7 in D:\DEV\Java\_Projetos\microservices\microservices\mscreditassessor)
+2024-08-22 12:54:13.050  INFO 25996 --- [main] i.g.k.m.MscreditassessorApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-08-22 12:54:14.018  INFO 25996 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=14a78561-e590-345a-a125-9506cbb6df7d
+2024-08-22 12:54:14.730  INFO 25996 --- [main] o.s.c.openfeign.FeignClientFactoryBean   : For 'msclients' URL not provided. Will try picking an instance via load-balancing.
+2024-08-22 12:54:14.845  INFO 25996 --- [main] o.s.c.openfeign.FeignClientFactoryBean   : For 'mscards' URL not provided. Will try picking an instance via load-balancing.
+2024-08-22 12:54:17.438  INFO 25996 --- [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-22 12:54:17.519  WARN 25996 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-08-22 12:54:17.533  INFO 25996 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoint(s) beneath base path '/actuator'
+2024-08-22 12:54:17.612  INFO 25996 --- [main] i.g.k.m.MscreditassessorApplicationTests : Started MscreditassessorApplicationTests in 4.935 seconds (JVM running for 5.616)
+2024-08-22 12:54:18.043  INFO 25996 --- [SpringApplicationShutdownHook] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-22 12:54:18.045  INFO 25996 --- [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application MSCREDITASSESSOR with eureka with status DOWN

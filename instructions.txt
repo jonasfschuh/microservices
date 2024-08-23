@@ -8,4 +8,4 @@ Create only once
 docker network create ms-network
 
 ** In rabbitMQ add the queue
-emissao-cartoes
+card-issuance
